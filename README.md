@@ -8,6 +8,7 @@ A React component library (clark_zoe_ui_garden_build_checks) packaged and deploy
 
  # Clone the Repository
 git clone https://github.com/ZoArk/clark_zoe_ui_garden.git
+
 cd clark_zoe_ui_garden
 
 # Install Dependencies
