@@ -13,10 +13,10 @@ cd clark_zoe_ui_garden
 # Install Dependencies
 yarn install
 
-## Start the App
+# Start the App
 yarn start
 
-## Pre-Commit Checks
+# Pre-Commit Checks
 yarn lint  - Run ESLint
 yarn format  - Format code
 yarn test  - Run tests
