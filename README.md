@@ -2,8 +2,11 @@
 A React component library (clark_zoe_ui_garden_build_checks) packaged and deployed inside a Create React App (clark_zoe_ui_garden). This project includes:
 
  Reusable UI Components
+ 
  Pre-commit hooks with ESLint, Prettier, Jest
+ 
  GitHub Actions CI/CD workflow
+ 
  Dockerized production build (running on port 8018)
 
  # Clone the Repository
@@ -19,7 +22,9 @@ yarn start
 
 # Pre-Commit Checks
 yarn lint  - Run ESLint
+
 yarn format  - Format code
+
 yarn test  - Run tests
 
 # Build the Docker Container
